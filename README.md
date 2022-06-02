@@ -7,10 +7,10 @@
 
 ## FEATURES
 
-- https://github.com/executablebooks/sphinx-book-theme
-- https://github.com/executablebooks/MyST-Parser
-- https://github.com/mgaitan/sphinxcontrib-mermaid
-. https://bitbucket.org/albert_bagdasaryan/sphinxcontrib-swaggerui/src
+- CUSTOM THEME : https://github.com/executablebooks/sphinx-book-theme
+- MARKDOWN SUPPORT: https://github.com/executablebooks/MyST-Parser
+- MERMAID DIAGRAM SUPPORT: https://github.com/mgaitan/sphinxcontrib-mermaid
+- OPEN API DOC SUPPORT: https://bitbucket.org/albert_bagdasaryan/sphinxcontrib-swaggerui/src
 
 ## REQUIREMENTS
 Visual Studio Code Remote - Containers: <https://code.visualstudio.com/docs/remote/containers#_system-requirements>
