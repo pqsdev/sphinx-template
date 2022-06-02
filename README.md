@@ -3,7 +3,7 @@
 [Sphynx](https://www.sphinx-doc.org/en/master/) project template using [vscode dev containers](https://code.visualstudio.com/docs/remote/containers)
 
 
-![dev containers](_static/jd-arq.svg)
+![dev containers](_static/arq.svg)
 
 ## FEATURES
 
