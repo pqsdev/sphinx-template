@@ -3,7 +3,7 @@
 Sphynx project template using [vscode dev containers](https://code.visualstudio.com/docs/remote/containers)
 
 
-![dev containers](https://code.visualstudio.com/assets/docs/remote/containers/architecture-containers.png)
+![dev containers](_static/jd-arq.svg)
 
 ## FEATURES
 
