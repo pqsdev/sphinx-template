@@ -1,4 +1,4 @@
-# SPHYNX project TEMPLATE
+# Sphynx project template
 
 Sphynx project template using [vscode dev containers](https://code.visualstudio.com/docs/remote/containers)
 
